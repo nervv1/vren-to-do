@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <h1> vren To-Do</h1>
-      <input
+  <input
         value={text}
         onChange={(e) => setText(e.target.value)}
         placeholder="Add a task"
