@@ -1,6 +1,6 @@
-let bakchod = "whatsup";
-console.log(bakchod);
-console.log(typeof(int)); 
+let hi = "whatsup";
+console.log(hi);
+console.log(typeof(int)); g
 
 
 
